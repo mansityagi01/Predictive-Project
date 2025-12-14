@@ -85,22 +85,22 @@ E-commerce customer transaction and behavior data
 
 ## 🤖 Models Implemented
 
-### 1. **Logistic Regression** (Unit II - Linear Models) 🏆
+### 1. **Logistic Regression** 
 - ✅ Fast inference and interpretable
 - ✅ Excellent for linear decision boundaries
 - 🎯 **Test Accuracy: 91.26%** (BEST MODEL)
 
-### 2. **Gradient Boosting** (Unit VI - Boosting)
+### 2. **Gradient Boosting** 
 - ✅ Sequential ensemble learning
 - ✅ Captures complex non-linear patterns
 - 🎯 **Test Accuracy: 90.29%**
 
-### 3. **Random Forest** (Unit VI - Random Forests)
+### 3. **Random Forest** 
 - ✅ Robust bagging ensemble
 - ✅ Handles overfitting well
 - 🎯 **Test Accuracy: 88.35%**
 
-### 4. **K-Nearest Neighbors** (Unit IV - Instance-Based Learning)
+### 4. **K-Nearest Neighbors** 
 - ✅ Non-parametric and simple
 - ✅ Effective for pattern recognition
 - 🎯 **Test Accuracy: 85.44%**
@@ -333,7 +333,7 @@ This project demonstrates practical application of machine learning concepts fro
 For questions, suggestions, or collaboration opportunities:
 - 🐛 **Issues**: Open an issue on GitHub
 - 💬 **Discussions**: Start a discussion in the repository
-- 📧 **Email**: [Your Email Address]
+
 
 ---
 
