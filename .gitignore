@@ -1,0 +1,30 @@
+# Ignore specific files
+app.py
+Predictive report1.pdf
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files (optional - uncomment if models are too large)
+# *.pkl
+# *.h5
+# *.model
+
+# System files
+.DS_Store
+Thumbs.db
