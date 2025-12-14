@@ -205,7 +205,7 @@ python myself.py
 - **Overall Dataset Accuracy**: 94.54%
 - **Status**: ✅ READY FOR DEPLOYMENT
 
-![Model Comparison](best_model_analysis.png)
+![Model Comparison](Img6.png)
 *Figure 2: Performance metrics comparison across all models*
 
 ---
@@ -239,12 +239,12 @@ python myself.py
 <td align="center"><b>Model Performance</b></td>
 </tr>
 <tr>
-<td><img src="Img5.png" width="400"/></td>
-<td><img src="Img6.png" width="400"/></td>
+<td><img src="Img7.png" width="400"/></td>
+<td><img src="Img8.png" width="400"/></td>
 </tr>
 <tr>
-<td align="center"><b>Confusion Matrix</b></td>
 <td align="center"><b>Feature Importance</b></td>
+<td align="center"><b>Best Model Performance</b></td>
 </tr>
 </table>
 
@@ -313,19 +313,12 @@ This project demonstrates practical application of machine learning concepts fro
 ## 👨‍💻 Author
 
 **Mansi Tyagi**
-- 📧 Email: [Your Email]
+- 📧 Email: [mansityagi472@gmail.com](mansityagi472@gmail.com)
 - 🔗 GitHub: [@mansityagi01](https://github.com/mansityagi01)
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [[mansi011](https://www.linkedin.com/in/mansi011/)]
 
 **Student ID**: 12318015 (K23BE)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
