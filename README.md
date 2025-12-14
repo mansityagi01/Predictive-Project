@@ -85,25 +85,25 @@ E-commerce customer transaction and behavior data
 
 ## 🤖 Models Implemented
 
-### 1. **Logistic Regression** (Unit II - Linear Models)
+### 1. **Logistic Regression** (Unit II - Linear Models) 🏆
 - ✅ Fast inference and interpretable
 - ✅ Excellent for linear decision boundaries
-- 🎯 **Test Accuracy: 88.49%**
+- 🎯 **Test Accuracy: 91.26%** (BEST MODEL)
 
 ### 2. **Gradient Boosting** (Unit VI - Boosting)
 - ✅ Sequential ensemble learning
 - ✅ Captures complex non-linear patterns
-- 🎯 **Test Accuracy: ~92%**
+- 🎯 **Test Accuracy: 90.29%**
 
 ### 3. **Random Forest** (Unit VI - Random Forests)
 - ✅ Robust bagging ensemble
 - ✅ Handles overfitting well
-- 🎯 **Test Accuracy: ~94%**
+- 🎯 **Test Accuracy: 88.35%**
 
 ### 4. **K-Nearest Neighbors** (Unit IV - Instance-Based Learning)
 - ✅ Non-parametric and simple
 - ✅ Effective for pattern recognition
-- 🎯 **Test Accuracy: ~85%**
+- 🎯 **Test Accuracy: 85.44%**
 
 ---
 
@@ -195,14 +195,14 @@ python myself.py
 
 | Model | CV Accuracy | Test Accuracy | Precision | Recall | F1-Score |
 |-------|-------------|---------------|-----------|--------|----------|
-| **Logistic Regression** | 87.52% | **88.49%** | 100.00% | 77.04% | 87.03% |
-| **Gradient Boosting** | 91.23% | 92.45% | 94.12% | 91.87% | 92.78% |
-| **Random Forest** | 93.67% | 94.34% | 95.23% | 93.45% | 94.12% |
-| **K-Nearest Neighbors** | 84.12% | 85.67% | 87.34% | 84.56% | 85.67% |
+| **Logistic Regression** 🏆 | 90.49% | **91.26%** | 91.38% | 91.26% | 91.31% |
+| **Gradient Boosting** | 88.05% | 90.29% | 90.44% | 90.29% | 90.35% |
+| **Random Forest** | 88.54% | 88.35% | 89.01% | 88.35% | 88.44% |
+| **K-Nearest Neighbors** | 84.14% | 85.44% | 85.98% | 85.44% | 85.44% |
 
-### 🏆 Best Model: Random Forest
-- **Test Accuracy**: 94.34%
-- **Overall Dataset Accuracy**: 96.78%
+### 🏆 Best Model: Logistic Regression
+- **Test Accuracy**: 91.26%
+- **Overall Dataset Accuracy**: 94.54%
 - **Status**: ✅ READY FOR DEPLOYMENT
 
 ![Model Comparison](best_model_analysis.png)
